@@ -49,4 +49,4 @@ To simulate and test the Verilog code, you will need a Verilog simulator such as
 
 ```bash
 git clone https://github.com/girija2103/Traffic-Signal-Controller-Verilog.git
-cd Traffic-Signal-Controller
+cd Traffic-Signal-Controller-Verilog
