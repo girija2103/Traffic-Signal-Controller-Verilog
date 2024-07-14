@@ -48,5 +48,5 @@ To simulate and test the Verilog code, you will need a Verilog simulator such as
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-username/traffic-light-controller.git
-cd traffic-light-controller
+git clone https://github.com/girija2103/Traffic-Signal-Controller-Verilog.git
+cd Traffic-Signal-Controller
